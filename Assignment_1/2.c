@@ -1,3 +1,4 @@
+//Sum of Individual Digits of a Given Positive Integer
 #include <stdio.h>
 
 int main() {
